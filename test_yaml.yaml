@@ -11,7 +11,7 @@ info:
     name:       Nina
     email:      happykia530@gmail.com
 # during dev, should point to your local machine e.g. event-hub-dev.hosted.exosite.io
-host: 470ef4cdd4872f0a5112a628325122e5.m.pipedream.net
+host: demoexternalservice.nightly-edge-dev.dcaziotdevcls1.westpharma.net
 basePath: /
 x-exosite-health-path: /
 schemes:
